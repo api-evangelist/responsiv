@@ -1,8 +1,15 @@
 aid: responsiv
 name: Responsiv
-description: 'Responsiv is a company surfaced as a portfolio company of greylock and added to the API
-  Evangelist network as a stub for enrichment. Sector: applications. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: 'Responsiv is an AI-powered regulatory intelligence and compliance platform
+  that helps organizations monitor regulatory change, translate laws and regulations
+  into clear actionable requirements, identify compliance gaps against existing policies
+  and controls, and track remediation through to completion. The platform continuously
+  monitors 1,000+ regulatory sources across 50+ jurisdictions, routes alerts by business
+  unit, topic, or jurisdiction, maintains an obligations register, and offers agentic
+  legal research with fully cited sources. It serves compliance teams in financial
+  services, health and P&C insurance, and consumer tech. Backed by Greylock. As of
+  this enrichment pass the company exposes no public API, developer portal, or documentation
+  surface.'
 url: https://raw.githubusercontent.com/api-evangelist/responsiv/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +17,31 @@ x-backed-by:
 - greylock
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://responsiv.ai/images/logo.svg
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Applications
+- Regulatory Compliance
+- RegTech
+- Governance Risk and Compliance
+- Legal Research
+- Artificial Intelligence
+- Financial Services
+- Insurance
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +51,20 @@ maintainers:
 common:
 - type: Website
   url: https://responsiv.ai/
+- type: Platform
+  url: https://responsiv.ai/platform
+- type: Login
+  url: https://product.responsiv.ai/
+- type: TermsOfService
+  url: https://responsiv.ai/terms
+- type: PrivacyPolicy
+  url: https://responsiv.ai/privacy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/responsiv-ai
+- type: DomainSecurity
+  url: security/responsiv-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
