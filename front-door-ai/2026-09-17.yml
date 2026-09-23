@@ -1,0 +1,26 @@
+# Front Door AI Index — responsiv — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: responsiv
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: responsiv.ai
+  final_host: responsiv.ai
+  ownership: own
+  owner: responsiv
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 4
+  host_score: 4
+  density: 2.38
+  words: 1678
+  tiers:
+    agentic: 0
+    core: 4
+    model: 0
+  ambiguous: 1
+  top_terms:
+    AI: 4
+    smart: 1
