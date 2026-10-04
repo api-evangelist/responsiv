@@ -51,7 +51,7 @@ tags:
 - Governance Risk and Compliance
 - Legal Research
 - Artificial Intelligence
-- Financial-Services
+- Financial Services
 - Insurance
 tags_raw:
 - Company
@@ -63,6 +63,7 @@ tags_raw:
 - Artificial Intelligence
 - Financial Services
 - Insurance
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
