@@ -64,6 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Responsiv is a company surfaced as a portfolio company of greylock and added to the API Evangelist network as a stub for enrichment. Sector: applications. This profile is a lead awaiting the enrichment pipeline.
+Responsiv is an AI-powered regulatory intelligence and compliance platform that helps organizations monitor regulatory change, translate laws and regulations into clear actionable requirements, identify compliance gaps against existing policies and controls, and track remediation through to completion. The platform continuously monitors 1,000+ regulatory sources across 50+ jurisdictions, routes alerts by business unit, topic, or jurisdiction, maintains an obligations register, and offers agentic legal research with fully cited sources. It serves compliance teams in financial services, health and P&C insurance, and consumer tech. Backed by Greylock. As of this enrichment pass the company exposes no public API, developer portal, or documentation surface.
 
-Backed by: greylock — https://responsiv.ai/
+**Areas:** Company · Application · Regulatory Compliance · RegTech · Governance Risk and Compliance · Legal Research · Artificial Intelligence · Financial Services · Insurance
+
+## Responsiv on APIs.io
+
+Everything profiled for Responsiv is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/responsiv/](https://apis.io/providers/responsiv/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Responsiv Domain Security](https://apis.io/security/responsiv/responsiv-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://responsiv.ai/)
+- [Terms of service](https://responsiv.ai/terms)
+- [Privacy policy](https://responsiv.ai/privacy)
+
+## API Evangelist rating
+
+**Kin Score 9.6** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 27.6 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.5** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/responsiv/](https://apis.io/providers/responsiv/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Responsiv: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/responsiv/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
